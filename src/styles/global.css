@@ -1,0 +1,12 @@
+body {
+    font-family: "Inter", sans-serif;
+    /* font-family: "Roboto", sans-serif; */
+  }
+  .font-mono {
+    font-family: "JetBrains Mono", monospace;
+  }
+  .font-title {
+    font-family: "Quicksand", sans-serif;
+    /* font-family: "Noto Sans", sans-serif; */
+    /* font-family: "Bungee", sans-serif; */
+  }
