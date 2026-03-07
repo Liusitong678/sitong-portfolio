@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { useState } from "react";
+import moonIcon from "../assets/icons/moon.png"
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -9,7 +10,7 @@ function Navbar() {
       <div className="mx-auto max-w-6xl px-6 py-5">
         <div className="flex items-center justify-between">
           <Link to="/" className="text-3xl font-semibold text-white">
-            {/* Luna Liu */}
+            <img src={moonIcon} alt="" className="w-12 h-12" />
           </Link>
 
           {/* Desktop menu */}

@@ -40,10 +40,12 @@ function About() {
                             </p>
 
                             <p>
-                                I previously worked at Geely for two years as a frontend
-                                developer, where I led the development of a new energy battery
-                                swap management platform supporting battery swap stations for
-                                electric vehicles.
+                                I previously worked for two years as a Frontend Developer 
+                                at a subsidiary of Geely, one of the largest automotive 
+                                companies in China and the parent company of brands such as 
+                                Volvo. During that time, I led the frontend development of a 
+                                new energy battery swap management platform used to support 
+                                electric vehicle battery swap stations.
                             </p>
 
                             <p>
