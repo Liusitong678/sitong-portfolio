@@ -1,7 +1,3 @@
-import batterySwap from "../assets/images/battery-swap-system.png";
-import smartHotel from "../assets/images/smart-hotel.jpg";
-import ipad from "../assets/images/ipad.jpg";
-
 export const projectData = [
     {
       id: 1,
@@ -20,7 +16,7 @@ export const projectData = [
         "Participated in on-site deployment, integration, and debugging in Jiaxing and Hangzhou Qiantang facilities.",
         "Currently deployed in more than 300 battery swap stations across China."
       ],
-      image: batterySwap
+      image: "/images/battery-swap-system.png"
     },
     {
       id: 2,
@@ -36,7 +32,7 @@ export const projectData = [
         "Supported application submission, approval flow, progress tracking, and device supervision.",
         "Improved workflow efficiency through clear role permissions and responsive interface design."
       ],
-      image: ipad
+      image: "/images/smart-hotel.jpg"
     },
     {
       id: 3,
@@ -52,6 +48,6 @@ export const projectData = [
         "Implemented the project using native JavaScript in the WeChat Mini Program development environment.",
         "Designed the interface to support intuitive mobile interaction for smart hotel scenarios."
       ],
-      image: smartHotel
+      image: "/images/ipad.jpg"
     }
   ];

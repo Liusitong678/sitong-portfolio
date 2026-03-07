@@ -1,5 +1,3 @@
-import profile from "../assets/images/sitong.jpg";
-
 function About() {
     return (
         <>
@@ -18,7 +16,7 @@ function About() {
 
                         <div className="pt-4">
                             <img
-                                src={profile}
+                                src="/images/sitong.jpg"
                                 alt="Sitong Liu"
                                 className="w-[240px] rounded-xl border border-white/10 shadow-lg"
                             />
