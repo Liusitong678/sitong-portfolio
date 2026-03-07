@@ -32,7 +32,7 @@ export const projectData = [
         "Supported application submission, approval flow, progress tracking, and device supervision.",
         "Improved workflow efficiency through clear role permissions and responsive interface design."
       ],
-      image: "/images/smart-hotel.jpg"
+      image: "/images/ipad.jpg"
     },
     {
       id: 3,
@@ -48,6 +48,6 @@ export const projectData = [
         "Implemented the project using native JavaScript in the WeChat Mini Program development environment.",
         "Designed the interface to support intuitive mobile interaction for smart hotel scenarios."
       ],
-      image: "/images/ipad.jpg"
+      image: "/images/smart-hotel.jpg"
     }
   ];
